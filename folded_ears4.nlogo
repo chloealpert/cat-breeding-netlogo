@@ -135,9 +135,9 @@ to birth
 end
 @#$#@#$#@
 GRAPHICS-WINDOW
-210
+225
 20
-579
+594
 390
 -1
 -1
@@ -170,7 +170,7 @@ initial-cats
 initial-cats
 0
 500
-296.0
+250.0
 1
 1
 NIL
@@ -185,7 +185,7 @@ percent-female
 percent-female
 0
 100
-46.0
+50.0
 1
 1
 NIL
@@ -200,7 +200,7 @@ percent-folds
 percent-folds
 0
 100
-2.0
+50.0
 1
 1
 NIL
